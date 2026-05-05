@@ -49,7 +49,7 @@ tagless-tui --version
 ### 2. Install the plugin
 
 ```bash
-ya pack -a TU0801/tagless
+ya pack -a TU0801/tagless.yazi
 # (or copy this directory to ~/.config/yazi/plugins/tagless.yazi/)
 ```
 
