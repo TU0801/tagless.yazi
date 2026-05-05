@@ -36,8 +36,11 @@ without grep, without writing a script.
 ### 1. Install the `tagless-tui` binary
 
 ```bash
-cargo install --git https://github.com/TU0801/tagless tagless-tui
-# or download a release binary from https://github.com/TU0801/tagless/releases
+# Homebrew (recommended)
+brew install TU0801/tap/tagless-tui
+
+# Or download a release binary from
+# https://github.com/TU0801/tagless-releases/releases
 ```
 
 Verify:
